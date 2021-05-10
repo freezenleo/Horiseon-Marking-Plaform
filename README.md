@@ -6,8 +6,8 @@ Preview of Our Page:
 
 ![_C__Users_freez_Desktop_Challenge_Module-1-challenge_Develop_index html](https://user-images.githubusercontent.com/81452611/117598316-2e098880-b10d-11eb-90ef-26b7d4906221.png)
 
-Repository: https://github.com/freezenleo/Module-1-challenge.git
+Repository: https://github.com/freezenleo/Horiseon-Marking-Plaform.git
 
-Published page: https://freezenleo.github.io/Module-1-challenge/
+Published page: https://freezenleo.github.io/Horiseon-Marking-Plaform/
 
 This page was refactored by Jiaming Zhou

@@ -8,6 +8,6 @@ Preview of Our Page:
 
 Repository: https://github.com/freezenleo/Module-1-challenge.git
 
-Published page: 
+Published page: https://freezenleo.github.io/Module-1-challenge/
 
 This page was refactored by Jiaming Zhou
